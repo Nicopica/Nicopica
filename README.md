@@ -7,7 +7,7 @@
 
 * **Languages:** Python, Java, C, SQL, Javascript
 * **Frameworks & Libraries:** Streamlit, Pandas, OpenGL
-* **Tools & Pltatforms:** Git, GitHub, Docker
+* **Tools & Platforms:** Git, GitHub, Docker
 * **Extra:** Experience in TI-Basic
 
 ### Contact
