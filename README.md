@@ -1,16 +1,16 @@
 # Hello, I'm Nicolas Beyers!
 
-**Softwaredeveloper**
+**Software Developer**
 * Currently Studying at **TH Lübeck**.
 
 ### My Tech-Stack
 
 * **Languages:** Python, Java, C, SQL
-* **Frameworks & Libraries:** Streamlit, Pandas, [z.B. Flask, Django, React]
+* **Frameworks & Libraries:** Streamlit, Pandas
 * **Tools & Pltatforms:** Git, GitHub, Docker
 * **Extra:** TI-Basic 
 
 ### Contact
 * **Email:** beyersnicolas@gmail.com
 ---
-*"I'm lazy, so I make it easy"*
+*"Why work hard when your code can work smart?"*
