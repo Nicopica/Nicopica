@@ -8,7 +8,7 @@
 * **Languages:** Python, Java, C, SQL
 * **Frameworks & Libraries:** Streamlit, Pandas, OpenGL
 * **Tools & Pltatforms:** Git, GitHub, Docker
-* **Extra:** TI-Basic 
+* **Extra:** Experience in TI-Basic
 
 ### Contact
 * **Email:** beyersnicolas@gmail.com
