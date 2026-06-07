@@ -6,8 +6,8 @@
 ### My Tech-Stack
 
 * **Languages:** Python, Java, C, SQL, Javascript
-* **Frameworks & Libraries:** Streamlit, Pandas, OpenGL
-* **Tools & Platforms:** Git, GitHub, Docker
+* **Libraries:** Streamlit, Pandas, OpenGL
+* **Tools & Platforms:** GitHub, Docker
 * **Extra:** Experience in TI-Basic
 
 ### Contact
